@@ -1,51 +1,43 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+💪 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!
+📒 Descrição
+Este projeto explora o poder das IAs Generativas para criar conteúdos que desafiam a percepção do que é "natural" ou "fake". Inspirado na cultura "Natty or Not" do fisiculturismo, aplicamos essa analogia ao universo digital, testando até onde a IA pode ir na criação de materiais realistas e impactantes.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+ChatGPT (para geração de texto e estruturação de ideias)
 
-> Woooow! Look at this 👀
+DALL·E / Midjourney / Stable Diffusion (para criação de imagens realistas)
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Synthesia / D-ID (para geração de vídeos com avatares virtuais)
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Descript / Podcastle (para edição de áudio e criação de podcasts)
 
-### Objetivos
+GitHub (versionamento e publicação do projeto)
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
+Pesquisa de Tendências: Utilizei o Mapa de Tendências da Base10 para entender os principais players de IA Generativa.
 
-### Template
+Ideação: Escolhi criar um podcast e um vídeo com avatar virtual sobre o tema "Fake Natty Digital".
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Produção:
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Gerei o roteiro com IA.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Criei imagens com IA para ilustrar o conteúdo.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Produzi um vídeo com avatar usando Synthesia.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Editei um episódio de podcast com Podcastle.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Publicação: Organizei tudo no GitHub e compartilhei nas redes com a hashtag #LabDIONattyOrNot.
 
-### Exemplos e Insigths
+🚀 Resultados
+🎙️ Episódio de podcast: "Você é Natty Digital?"
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+🎥 Vídeo com avatar: "O que é ser autêntico na era das IAs?"
 
-## Links Interessantes
+🗺️ Mapa de Tendências comentado com insights sobre o futuro das IAs Generativas.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+📈 Engajamento nas redes sociais com a hashtag oficial.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Criar algo que pareça "natural" com IA é um desafio criativo e ético. A linha entre o que é real e o que é gerado está cada vez mais tênue — e isso exige responsabilidade, autenticidade e muita experimentação.
